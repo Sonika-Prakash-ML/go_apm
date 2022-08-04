@@ -4,13 +4,14 @@ This provides the instrumentation modules for the Go web frameworks.
 Currently this supports Goji web framework (https://github.com/zenazn/goji).
 
 
-**Pre-requisite**
+## Pre-requisite
 
 Install the Elastic APM Go Agent with the following command.
 ```bash
 go get go.elastic.co/apm/v2
 ```
 
+## Instrumentation modules
 
 **module/apmgoji**
 
